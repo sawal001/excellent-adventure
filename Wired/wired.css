@@ -1,0 +1,56 @@
+body {
+color: gray;
+}
+
+.header {
+border-style:solid;
+border-color: black;
+border-width: 2px;
+border-top: 10px;
+margin:5px;
+
+}
+
+.mobile {
+  border-style:solid;
+  border-color: black;
+  border-width: 2px;
+  border-top: 10px;
+  margin:5px;
+}
+
+.who-to-follow {
+  border-style:solid;
+  border-color: black;
+  border-width: 2px;
+  border-top: 10px;
+  margin:5px;
+}
+
+.video {
+  border-style:solid;
+  border-color: black;
+  border-width: 2px;
+  border-top: 10px;
+  margin:5px;
+}
+
+.social-web{
+  border-style:solid;
+  border-color: black;
+  border-width: 2px;
+  border-top: 10px;
+  margin:5px;
+}
+
+.web-print {
+  border-style:solid;
+  border-color: black;
+  border-width: 2px;
+  border-top: 10px;
+  margin:5px;
+}
+
+footer {
+
+}
