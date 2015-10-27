@@ -43,7 +43,7 @@ float:left;
   border-style: solid;
   border-width: 1px;
   width: 160px;
-  height: 1500px;
+  height: 952px;
   float:right;
   margin-top: 2%;
   margin-bottom: 10%;
@@ -73,8 +73,8 @@ float:left;
 .video {
   width: 487px;
   height: 200px;
-  margin-top: 2%;
   margin-left: 5%;
+  margin-top: 500px;
   border-color: black;
   border-style: solid;
   border-width: 1px;
@@ -87,5 +87,5 @@ float:left;
   border-style: solid;
   border-width: 1px;
   margin-top: 2%;
-  margin-left: 5%;
+  margin-right: 2%;
 }
