@@ -1,3 +1,7 @@
+/** HEADER **/
+body {
+background-color: #d3d3d3;
+}
 h1 {
 margin:0;
 font-size: 1em;
@@ -7,6 +11,10 @@ text-align: right;
 padding-top: 50px;
 }
 
+h2 {
+text-transform: capitalize;
+border-bottom: 1px;
+}
 .header {
   display: block;
   margin-top: 0;
@@ -24,32 +32,80 @@ padding-top: 50px;
   clear:both;
 }
 
+/** BODY **/
+
 .big-box {
 height: 100%;
-width: 70%;
-border-color: red;
-border-style: solid;
-border width: 1px;
+width: 72%;
 float:left;
 margin-left: 5%;
 margin-top: 2%;
+margin-right: 2%;
 }
-
+/** content **/
 .side-bar {
-border-color: green;
+border-color: black;
 border-style: solid;
 border-width: 1px;
 height: 100%;
-width: 19.33%;
-float: left;
-border-right: 5%;
+width: 15%;
+float: right;
+margin-right: 5%;
 margin-top: 2%;
+border-top-width: 10px;
+background-color: #fff;
 }
- .mobile {
-   border-color: orange;
+/** content **/
+ .top {
+   border-color: black;
    border-style: solid;
    border-width: 1px;
-   width:98%;
+   width:100%;
    float: left;
-   border-right: 5%;
+   border-top-width: 10px;
+   background-color: white;
+}
+.image {
+ padding: 3%;
+}
+
+}
+
+.medium-box {
+  width: 100%;
+  margin-top: 2%;
+  float:left;
  }
+.little-box {
+  width: 48%;
+  float:left;
+}
+/** content **/
+.right-box {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  width: 48%;
+  float: right;
+  border-top-width: 10px;
+  background-color: white;
+}
+/** content **/
+.left-box-one {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  width: 100%;
+  border-top-width: 10px;
+  background-color: white;
+}
+/** content **/
+.left-box-two {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  width: 100%;
+  margin-top: 5%;
+  border-top-width: 10px;
+  background-color: white;
+}
